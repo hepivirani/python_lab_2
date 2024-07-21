@@ -1,0 +1,10 @@
+def addition(add):
+    print("Addition is:",add)
+def subtraction(sub):
+    print("Subtraction is:",sub)
+def multiplication(mul):
+    print("Multiplication is:",mul)
+def division(div):
+    print("Division is:",div)
+def percentage(per):
+    print("Percentage is:",per)
